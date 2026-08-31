@@ -60,3 +60,8 @@ The build produces `DTACKSpeedTest.APPL` and `DTACKSpeedTest.dsk`.
 
 - [MacintoshPortable8MB_RAM](https://github.com/2tf2294x4g-maker/MacintoshPortable8MB_RAM) — 8MB RAM expansion card for the Mac Portable
 - [MacintoshPortable4MB_RAM](https://github.com/2tf2294x4g-maker/MacintoshPortable4MB_RAM) — 4MB RAM expansion card for the Mac Portable
+
+## License
+
+[MIT](LICENSE) · SPDX `MIT` — Copyright (c) 2026 Greg Campbell.
+The full licence text is included in this repository.

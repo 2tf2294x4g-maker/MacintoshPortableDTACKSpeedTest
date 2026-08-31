@@ -1,4 +1,7 @@
 /*
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2026 Greg Campbell
+ *
  * DTACKSpeedTest.c -- Mac Portable DTACK speed tester
  * Native QuickDraw window; no Retro68 CONSOLE dependency.
  * Results written to DTACKResults.txt in the same folder as the app.
